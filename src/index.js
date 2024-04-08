@@ -1,6 +1,6 @@
 // Your code here
 
-const filmAPI = "http://localhost:3000/films"
+const filmAPI = "http://localhost:3000/Samsonfilms"
 
 const filmBar = document.getElementById("films")
 
